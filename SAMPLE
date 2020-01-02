@@ -1,0 +1,10 @@
+9223372036854775807
+Test program with one matrix M with any specified dimension
+And then make a copy, N. Transpose M and multiply them together (M' x N)
+
+Please enter matrix dimensions ("M N"): 3000 3000
+8 Threads detected
+Output to file? (y/n): y
+TIME Comparison:
+EIGEN LIBRARY:   282.538
+My MULTI THREAD: 117.869
